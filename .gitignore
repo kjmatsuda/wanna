@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+GPATH
+GRTAGS
+GTAGS
+
+encode_meta.html
